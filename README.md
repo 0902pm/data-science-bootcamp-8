@@ -1,8 +1,10 @@
 # data-science-bootcamp-8
 My data portfolio 
-## Heading 2 
-## What I learned
+
+## What I learned (Heading 2 )
 - Google sheet
 - SQL
 - R
 - Stat
+
+You can find me on Linkedin https://www.linkedin.com/in/pakkapornc/
